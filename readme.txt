@@ -2,7 +2,7 @@
 
 This project is a web-based data exploration and prediction tool built for analyzing and optimizing the performance of OXXO stores using machine learning models and geospatial data.
 
-PROJECT PRESENTATION IS A WEB APP
+PROJECT PRESENTATION IS A WEB APP!
 Web App Link: https://neural-drip.web.app/
 
 ## 🧩 Project Structure
